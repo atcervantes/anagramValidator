@@ -25,6 +25,9 @@ public class AnagramValidatorUtils {
 		if (result.length != 2)
 			throw new Exception("Invalid File");
 
+		result[0] = result[0].trim();
+		result[1] = result[1].trim();
+
 		return result;
 	}
 
