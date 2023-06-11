@@ -1,7 +1,7 @@
-package com.beyonnex.anagramValidator;
+package com.cervantes.anagramValidator;
 
 
-import com.beyonnex.anagramValidator.utils.AnagramValidatorUtils;
+import com.cervantes.anagramValidator.utils.AnagramValidatorUtils;
 
 public class AnagramValidatorApplication {
 

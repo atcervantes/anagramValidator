@@ -1,4 +1,4 @@
-package com.beyonnex.anagramValidator.utils;
+package com.cervantes.anagramValidator.utils;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
